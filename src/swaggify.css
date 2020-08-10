@@ -14,3 +14,15 @@
 #videoDownloadDropdown.shown {
     display: block;
 }
+
+#videoDownloadDropdown a{
+    display: block;
+    padding: 10px;
+    color: #444;
+}
+
+#videoDownloadDropdown a:hover{
+    background: #eee;
+    text-decoration: none;
+    color: #222;
+}
